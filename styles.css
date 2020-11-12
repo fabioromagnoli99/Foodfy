@@ -324,7 +324,7 @@ iframe{
     margin-left: 30px;
 }
 
-.modal-content p{
+.modal-content h3{
   position: absolute;
   top: 270px;
   left: 160px;
